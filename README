@@ -1,0 +1,13 @@
+'QCompiler' which will accept the SQL statements embedded in html. It detects the syntax errors and suggest the necessary corrections.
+
+QCompiler was made in my Compiler Design Class as a small mini-project in a very small timeframe (one night). So, it doesn't have the most advanced features but it certainly picks up most syntax error and provides genuine suggestions.
+
+QCompiler is coded in lex and yacc.
+
+Any improvement or suggestions are always welcome.
+
+http://prashish.wordpress.com/2012/05/27/qcompiler-sql-syntax-checker-using-lex-and-yacc/
+
+Prashish
+prashishh@gmail.com
+http://prashishrajbhandari.com.np
